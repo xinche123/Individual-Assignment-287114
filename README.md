@@ -3,14 +3,14 @@ Setup:\
 Ensure all files are inside the folder together:\
 Files: Login Credentials.csv, autorun.cmd, functions.py, main.py, stock_analysis.csv\
 \
-Run (Menu)\
+Run (Menu)
 1. Run autorun.cmd
 2. Type in 2 and enter to register an account with email and password if you do not have an account
 3. Type in 3 and enter to exit the program
 4. Type in 1 and enter to login into the program if you have an account already. After doing this you will be in the 
 
 
-Run (Stock Menu)\
+Run (Stock Menu)
 First Option(Input 1):\
 1. Key in desired stock ticker (Can refer yahoo finance for the stock ticker code by searching the company name)
 2. Key in start date and end date (Follow the format)
