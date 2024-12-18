@@ -9,9 +9,9 @@ Run (Menu)
 3. Type in 3 and enter to exit the program
 4. Type in 1 and enter to login into the program if you have an account already. After doing this you will be in the 
 
-
-Run (Stock Menu)
-First Option(Input 1):\
+\
+Run (Stock Menu)\
+First Option(Input 1):
 1. Key in desired stock ticker (Can refer yahoo finance for the stock ticker code by searching the company name)
 2. Key in start date and end date (Follow the format)
 3. Key in the interval you want by inputting 1,2,3 for the optinos (Weekly, BiWeekly, Monthly etc.)
