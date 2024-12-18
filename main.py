@@ -20,7 +20,6 @@ while endChoice != 1:
                         os.system('cls')
                         print("==== Login Successful! ====")
                         endChoice = 1
-                        stockChoice = 0
                         break
                     else:
                         print("Invalid Email or Password, returning to Main Menu")
@@ -66,7 +65,7 @@ while True:
     if stockMenuChoice == 1: # Analyze Choice
         while True:
             while True:
-                ticker = input("Enter stock ticker (e.g., 1023.KL for CIMB): ").upper()
+                ticker = input("Enter stock ticker (e.g., 1023.KL for CIMB, 1155.KL for Maybank): ").upper()
                 if ".KL" not in ticker:
                     print("Invalid ticker! Please make sure the ticker contains '.KL'.")
                     continue

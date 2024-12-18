@@ -4,7 +4,6 @@ import os
 import matplotlib.pyplot as plt
 import datetime
 
-
 user_path = "Login Credentials.csv"
 
 # Create a new csv file if dont have any file
