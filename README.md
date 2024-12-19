@@ -7,7 +7,7 @@ Run (Menu)
 1. Run autorun.cmd
 2. Type in 2 and enter to register an account with email and password if you do not have an account
 3. Type in 3 and enter to exit the program
-4. Type in 1 and enter to login into the program if you have an account already. After doing this you will be in the 
+4. Type in 1 and enter to login into the program if you have an account already. After doing this you will be logged into the stock menu.
 
 \
 Run (Stock Menu)\
