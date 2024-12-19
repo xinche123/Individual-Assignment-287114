@@ -1,7 +1,6 @@
 import pandas as pd
 import yfinance as yf
 import os
-import matplotlib.pyplot as plt
 import datetime
 
 user_path = "Login Credentials.csv"
