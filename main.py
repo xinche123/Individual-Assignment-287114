@@ -29,10 +29,11 @@ while endChoice != 1:
                     continue
         elif menuChoice == 2: # Register Choice
             while True:
-                print("Please type 'exit' in email or to return to main menu")
+                print("Please type 'exit' in email or password to return to main menu")
                 email = str(input("Please enter an email to register: "))
                 password = str(input("Please enter an password to register: "))
                 if "@" in email:
+                    os.system('cls')
                     register_result = register_user(email,password)
                     print(register_result)
                     break
